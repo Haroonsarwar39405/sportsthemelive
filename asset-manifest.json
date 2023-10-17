@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sportsthemelive/static/css/main.8ff45540.css",
-    "main.js": "/sportsthemelive/static/js/main.2e26dc1e.js",
+    "main.js": "/sportsthemelive/static/js/main.f651b5ce.js",
     "static/media/shopbanner-mit-text-1280x303.png": "/sportsthemelive/static/media/shopbanner-mit-text-1280x303.616054a28048d8643557.png",
     "static/media/2022-04_OWN3Dtv_esports-banner_EN_710x400.png": "/sportsthemelive/static/media/2022-04_OWN3Dtv_esports-banner_EN_710x400.7d71b9bcb53a53f76b2c.png",
     "static/media/ESL-FACEIT-merge-under-Saudi-Savvy-Group.jpg": "/sportsthemelive/static/media/ESL-FACEIT-merge-under-Saudi-Savvy-Group.23cc506de4d7187ef110.jpg",
@@ -72,10 +72,10 @@
     "static/media/Best-Gaming-Mice-350x197.jpg": "/sportsthemelive/static/media/Best-Gaming-Mice-350x197.b48576206413bd307118.jpg",
     "index.html": "/sportsthemelive/index.html",
     "main.8ff45540.css.map": "/sportsthemelive/static/css/main.8ff45540.css.map",
-    "main.2e26dc1e.js.map": "/sportsthemelive/static/js/main.2e26dc1e.js.map"
+    "main.f651b5ce.js.map": "/sportsthemelive/static/js/main.f651b5ce.js.map"
   },
   "entrypoints": [
     "static/css/main.8ff45540.css",
-    "static/js/main.2e26dc1e.js"
+    "static/js/main.f651b5ce.js"
   ]
 }
