@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #333333;
+}
+
+.bg-1 {
+    background-image: url(../Img/wireless-gaming-headsets-affiliates-953x544.jpg);
+    background-size: 100% 100%;
+}
+
+.hrdiv {
+    width: 90%;
+    height: 10vh;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+.hrdiv1 {
+    width: 90%;
+    height: 10vh;
+    border-bottom: 2px solid white;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+.hrdiv2 {
+    width: 90%;
+    height: 10vh;
+    border-bottom: 1px solid white;
+    margin: 0px auto;
+}
+
+.bg-2 {
+    background-image: url(../Img/Olaf-League-of-Legends-Splash-Art-922x544.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-3 {
+    background-image: url(../Img/Virtus-Pro-playing-under-outsiders-967x544.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-4 {
+    background-image: url(../Img/New-VALORANT-AGent-teaser-720x405.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-5 {
+    background-image: url(../Img//Arlington-Major-announced-720x405.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-6 {
+    background-image: url(../Img/Secret-Vault-Warzone-Rebirth-Island-720x405.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-7 {
+    background-image: url(../Img/Best-Gaming-Keyboards-967x544.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-8 {
+    background-image: url(../Img/GMHikaru-banned-after-watching-dr-disrespect-720x405.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-9 {
+    background-image: url(../Img/wireless-gaming-headsets-affiliates-953x544.jpg);
+    background-size: 100% 100%;
+}
+.bg-10{
+    background-image: url(../Img/shopbanner-mit-text-1280x303.png);
+    background-size: 100% 100%;
+}
+.bg-11{
+    background-image: url(../Img/2022-04_OWN3Dtv_esports-banner_EN_710x400.png);
+    background-size: 100% 100%;
+}
+.bg-12{
+    background-image: url(../Img/logitech_mice1.jpg);
+    background-size: 100% 100%;
+}
+.bg-13{
+    background-image:url(../Img/ESL-FACEIT-merge-under-Saudi-Savvy-Group.jpg);
+    background-size: 100% 100%;  
+}
+.bg-14{
+    background-image: url(../Img/shopbanner-mit-text-1280x303.png);
+    background-size: 100% 100%;
+}
+.secdiv{
+    background-color: #a4a6afcf;
+}
